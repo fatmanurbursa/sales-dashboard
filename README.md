@@ -24,4 +24,3 @@ sales_cleaned.csv
 ## Nasıl İncelenir  
 1. GitHub içerisindeki notebook dosyasını açarak kod adımlarını inceleyebilirsin.  
 2. Tableau linkine tıklayarak interaktif dashboard’u görüntüleyebilirsin.  
-3. Proje senin için benzer bir veride uygulanabilir: Veriyi yükle, temizle, analiz et, görselleştir.
